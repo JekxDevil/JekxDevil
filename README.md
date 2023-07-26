@@ -1,10 +1,14 @@
-### Hi there 👋
+Hello there! I'm Jeferson, Computer Science student at USI Switzerland, wondering about automation and AI implementations.
+- 👯 I’m looking to collaborate on FOSS projects
+- 🌱 I’m currently learning continuous distributed deployment
+- 💬 Ask me about new technologies, possibilities in real world applications && _side effects_ in our society.
+- 📫 How to reach me: jeferson.morales.mariciano@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: the good old days when we were all in that infinitely small and dense little point called singularity
+
 
 <!--
-**JekxDevil/JekxDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+template
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
