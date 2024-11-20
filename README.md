@@ -1,4 +1,4 @@
-Hello there! I'm Jeferson, Computer Science student at USI Switzerland, wondering about automation and AI implementations.
+Hello there! I'm Jeferson, a Computer Science graduate pursuing a master's degree at ETH Zurich, Switzerland, wondering about automation and AI implementations.
 - 👯 I’m looking to collaborate on FOSS projects
 - 🌱 I’m currently learning continuous distributed deployment
 - 💬 Ask me about new technologies, possibilities in real world applications && _side effects_ in our society.
